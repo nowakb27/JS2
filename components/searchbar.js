@@ -1,4 +1,3 @@
-// Searchbar.js
 const Searchbar = {
     data() {
         return {
@@ -11,7 +10,7 @@ const Searchbar = {
         }
     },
     template: `
-    <div class="search-bar">
+    <div class="search-bar" style="text-align: center;">
       <input
         type="text"
         v-model="searchQuery"
@@ -21,6 +20,8 @@ const Searchbar = {
     </div>
   `
 };
+
+
 
 
 

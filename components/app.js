@@ -1189,8 +1189,6 @@ const App = {
                     "description": ""
                 }
             ]
-
-
         };
     },
     template: `

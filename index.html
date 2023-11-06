@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Upcoming Trips</title>
+    <title>TravelQueue - Manage Trips</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/app.min.css">
@@ -10,31 +10,47 @@
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
-        <a class="navbar-brand" href="#">TravelQue</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <a class="navbar-brand" href="#" onclick="showPage('home')">TravelQueue</a>
+        <button class="navbar-toggler" type="button" onclick="toggleNav()" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="index.html">Upcoming Trips</a>
+                    <a class="nav-link" href="#" onclick="showPage('home')">Upcoming Trips</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="flaglibrary.html">Flag Library</a>
+                    <a class="nav-link" href="#" onclick="showPage('flaglibrary')">Flag Library</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="expiredcards.html">Past Trips</a>
+                    <a class="nav-link" href="#" onclick="showPage('pasttrips')">Past Trips</a>
                 </li>
             </ul>
         </div>
     </div>
 </nav>
 
-<div id="app"></div>
+<div id="home" class="page-content">
+</div>
+
+<div id="flaglibrary" class="page-content hidden">
+    <div id="app">
+        <search-bar @search="filterCountries"></search-bar>
+        <flag-cards :countries="filteredCountries" @show-modal="showModal"></flag-cards>
+    </div>
+</div>
+
+<div id="pasttrips" class="page-content hidden">
+</div>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/vue@3.2.6/dist/vue.global.prod.js"></script>
+<script src="components/showpage.js"></script>
+<script src="components/flagcards.js"></script>
+<script src="components/searchbar.js"></script>
+<script src="components/app.js"></script>
 <script src="js/main.js"></script>
 </body>
 </html>
+
 

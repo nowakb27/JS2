@@ -4,244 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="200b4476-93cf-454c-9f47-0b143e4856fe" name="Changes" comment="">
+    <list default="true" id="200b4476-93cf-454c-9f47-0b143e4856fe" name="Changes" comment="Second Commit">
+      <change afterPath="$PROJECT_DIR$/scss/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/album-rtl/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/album/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/brand/bootstrap-logo-white.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/brand/bootstrap-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/css/app.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/css/app.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/dist/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/dist/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/dist/css/bootstrap.rtl.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/dist/css/bootstrap.rtl.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/js/color-modes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_accordion.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_alert.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_badge.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_breadcrumb.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_button-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_card.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_carousel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_close.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_code.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_containers.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_custom-forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_dropdown.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_helpers.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_images.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_input-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_jumbotron.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_maps.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_media.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_modal.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_nav.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_navbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_offcanvas.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_placeholders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_popover.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_print.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_progress.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_reboot.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_root.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_spinners.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_tables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_toasts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_tooltip.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_transitions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_type.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_utilities.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/app.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/bootstrap-grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/bootstrap-reboot.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/bootstrap-utilities.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/bootstrap-utilities.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/bootstrap-utilities.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/bootstrap.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/forms/_floating-labels.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/forms/_form-check.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/forms/_form-control.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/forms/_form-range.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/forms/_form-select.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/forms/_form-text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/forms/_input-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/forms/_labels.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/forms/_validation.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/helpers/_clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/helpers/_color-bg.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/helpers/_colored-links.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/helpers/_position.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/helpers/_ratio.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/helpers/_stacks.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/helpers/_stretched-link.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/helpers/_text-truncation.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/helpers/_visually-hidden.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/helpers/_vr.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_alert.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_backdrop.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_background-variant.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_badge.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_banner.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_border-radius.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_box-shadow.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_breakpoints.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_caret.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_color-scheme.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_container.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_deprecate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_float.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_gradients.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_grid-framework.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_hover.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_image.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_lists.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_nav-divider.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_reset-text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_resize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_size.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_table-row.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_table-variants.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_text-emphasis.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_text-hide.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_text-truncate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_transition.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_utilities.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_visibility.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/mixins/_visually-hidden.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/utilities/_align.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/utilities/_api.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/utilities/_background.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/utilities/_borders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/utilities/_clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/utilities/_display.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/utilities/_embed.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/utilities/_flex.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/utilities/_float.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/utilities/_overflow.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/utilities/_position.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/utilities/_screenreaders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/utilities/_shadows.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/utilities/_sizing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/utilities/_spacing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/utilities/_text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/utilities/_visibility.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/assets/scss/vendor/_rfs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/badges/badges.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/badges/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/blog-rtl/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/blog/blog.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/blog/blog.rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/breadcrumbs/breadcrumbs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/breadcrumbs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/buttons/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/carousel-rtl/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/carousel/carousel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/carousel/carousel.rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/carousel/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/cheatsheet-rtl/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/cheatsheet/cheatsheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/cheatsheet/cheatsheet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/cheatsheet/cheatsheet.rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/cheatsheet/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/checkout-rtl/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/checkout/checkout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/checkout/checkout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/checkout/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/cover/cover.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/cover/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/dashboard-rtl/dashboard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/dashboard-rtl/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/dashboard/dashboard.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/dashboard/dashboard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/dashboard/dashboard.rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/dashboard/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/dropdowns/dropdowns.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/dropdowns/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/features/features.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/features/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/features/unsplash-photo-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/features/unsplash-photo-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/features/unsplash-photo-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/footers/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/grid/grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/grid/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/headers/headers.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/headers/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/heroes/bootstrap-docs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/heroes/bootstrap-themes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/heroes/heroes.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/heroes/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/jumbotron/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/jumbotrons/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/jumbotrons/jumbotrons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/list-groups/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/list-groups/list-groups.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/masonry/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/modals/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/modals/modals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/navbar-bottom/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/navbar-fixed/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/navbar-fixed/navbar-fixed.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/navbar-static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/navbar-static/navbar-static.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/navbars-offcanvas/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/navbars-offcanvas/navbars-offcanvas.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/navbars/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/navbars/navbars.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/offcanvas-navbar/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/offcanvas-navbar/offcanvas-navbar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/offcanvas-navbar/offcanvas-navbar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/offcanvas/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/pricing/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/pricing/pricing.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/product/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/product/product.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/sidebars/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/sidebars/sidebars.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/sidebars/sidebars.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/sign-in/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/sign-in/sign-in.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/starter-template/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/sticky-footer-navbar/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/sticky-footer-navbar/sticky-footer-navbar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/sticky-footer/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-5.3.2-examples/sticky-footer/sticky-footer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/edit-trip-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/expired-cards-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/flagcards.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/flag-library-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/searchbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/flag-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/scss/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/flag-popup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/flag.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/home-page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/search-bar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/trip-card.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/expiredcards.html" beforeDir="false" afterPath="$PROJECT_DIR$/expiredcards.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaglibrary.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaglibrary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/flag-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/showpage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/flagcards.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/flagcards.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/searchbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/searchbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/countries.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expiredcards.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaglibrary.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
@@ -253,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -307,11 +79,24 @@
       <workItem from="1698191483629" duration="18032000" />
       <workItem from="1698263355393" duration="2337000" />
       <workItem from="1698722890928" duration="3868000" />
-      <workItem from="1698848605432" duration="2995000" />
+      <workItem from="1698848605432" duration="8467000" />
+      <workItem from="1699285207467" duration="5435000" />
     </task>
+    <task id="LOCAL-00001" summary="Second Commit">
+      <created>1698861040675</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698861040675</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
   </component>
 </project>
